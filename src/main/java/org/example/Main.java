@@ -91,6 +91,8 @@ public class Main {
                 totalRoomPaint += paintNeeded;
 
             System.out.println("For room " + " " + (numRooms+1) + "the total paint you need is " + totalRoomPaint + " litres");
+            System.out.println("For room " + " " + (numRooms+1) + "the total paint you need is " + totalRoomPaint + " litresdsadsadsdasdsd");
+
 
 
 
